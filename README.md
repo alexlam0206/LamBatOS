@@ -5,14 +5,14 @@ Welcome to the LamBat OS 0.1 Beta! This is the first beta release of our new ope
 ## Installation
 
 Method 1_(RECOMMEND) - Install at Virtual Machine
-1. Download the LamBat OS ISO file from our website.
-2. Import the ISO file to any virtual machine software.
-3. Boot the ISO file on your virtual machine software.
+1. Download the LamBat OS IMG file from our website.
+2. Import the IMG file to any virtual machine software.
+3. Boot the IMG file on your virtual machine software.
 4. Follow the on-screen instructions to install LamBat OS.
 
 Method 2_(NOT RECOMMEND) - Direct install on PC
-1. Download the LamBat OS ISO file from our website.
-2. Create a bootable USB drive using the ISO file.
+1. Download the LamBat OS IMG file from our website.
+2. Create a bootable USB drive using the IMG file.
 3. Boot your computer from the USB drive.
 4. Follow the on-screen instructions to install LamBat OS.
 
