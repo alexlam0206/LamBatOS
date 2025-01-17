@@ -1,6 +1,6 @@
-# LamBatOS 0.1 Beta
+# LamBatOS
 
-Welcome to the LamBat OS 0.1 Beta! This is the first beta release of our new operating system. We are excited to share it with you and look forward to your feedback.
+Welcome to the LamBatOS! This is the first beta release of our new operating system. We are excited to share it with you and look forward to your feedback.
 
 ## Contributing
 
