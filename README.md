@@ -10,7 +10,7 @@ We welcome contributions from the community. If you would like to contribute, pl
 
 MIT License
 
-Copyright (c) 2025 Alex0206
+Copyright (c) 2025 alexlam0206
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
