@@ -31,6 +31,6 @@ SOFTWARE.
 
 -------------------------------------------------
 
-Thank you for trying LamBat OS 0.1 Beta!
+Thank you for trying LamBat OS 25 Public Beta!
 
 The LamBat OS Team
